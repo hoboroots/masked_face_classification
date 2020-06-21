@@ -22,7 +22,7 @@ The dataset used in this project is from:
 * Adding Augmentation of rotation: 0 – 40°, width shift: 0 – 20%, height shift: 0 – 20%, shear: 0 – 20%, zoom: 0 – 20%, fill mode: nearest, and horizontal flip.
 
 ### Improvement
-We choose transfer learning (MobileNetV2) as our Improvement because dataset is small and it supports Faster Learning.
+We choose transfer learning (MobileNetV2) as our improvement because the dataset is considered small and it supports Faster Learning.
 
 ### Result
 The time for training reduced from 16-17s to 14-15s per epoch. 
