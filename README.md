@@ -1,5 +1,5 @@
 # Masked Face Classification
-<hr>
+
 About Masked Face Classification
 This web-based application is developed to classify two classes of people's faces: wearing mask and not wearing mask.
 
