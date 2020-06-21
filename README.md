@@ -18,11 +18,20 @@ The dataset used in this project is from:
 ## Model Building
 
 ### Baseline model
+* Using basic CNN (3 Convolution and 3 Pooling):
+* Adding Augmentation of rotation: 0 – 40°, width shift: 0 – 20%, height shift: 0 – 20%, shear: 0 – 20%, zoom: 0 – 20%, fill mode: nearest, and horizontal flip.
 
 ### Improvement
+We choose transfer learning (MobileNetV2) as our Improvement because dataset is small and it supports Faster Learning.
 
 ### Result
+The time for training reduced from 16-17s to 14-15s per epoch. 
+|               | Training      | Validation  |
+| ------------- |:-------------:| -----------:|
+| Accuracy      | 0.924         | 0.975       |
+| Loss          | 0.2118        | 0.062       |
 
+Even though the accuracy was a bit lower, and loss was higher than baseline model. The result from our manually collected Test Images is better.
 
 ## Deployment 
 This model is a web-based and deployed in [Github Pages](https://hoboroots.github.io/masked_face_classification).
