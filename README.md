@@ -49,7 +49,7 @@ For deployment, you can use Apache, Nginx, or any web servers to deliver web pag
 
 ## Presentation
 
-For more detail about this project can be found in this [Slide format] (https://docs.google.com/presentation/d/1lhoT7nwMqcDaze_fCHscIxv8dQY-PGUUmW9yoF_b6wo/edit?usp=sharing).
+For more detail about this project can be found in this [Slide format](https://docs.google.com/presentation/d/1lhoT7nwMqcDaze_fCHscIxv8dQY-PGUUmW9yoF_b6wo/edit?usp=sharing).
 
 ### Authors
 
