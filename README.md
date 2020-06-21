@@ -25,7 +25,7 @@ The dataset used in this project is from:
 
 
 ## Deployment 
-This model is a web-based and deployed in Github Pages.
+This model is a web-based and deployed in [Github Pages](https://hoboroots.github.io/masked_face_classification).
 
 ## Reproduction
 
