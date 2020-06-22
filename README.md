@@ -13,7 +13,7 @@ Since monitoring compliance is expensive and time consuming, this mask classific
 
 ## Dataset
 The dataset used in this project is from: 
-* [Prajnasb](https://github.com/prajnab/observations)
+* [Prajnasb](https://github.com/prajnasb/observations/)
 
 ## Model Building
 
