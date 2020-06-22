@@ -9,7 +9,7 @@ Further goal: To help monitor compliance of people wearing mask in public places
 
 ### Possible Implementation
 
-Since monitoring compliance is expensive and time consuming, this mask classification project can be deployed further for a real-time masked/unmasked face recognition in CCTV surveillance system to help government enforce the regulation of wearing mask in public places. Hence, the system can help contribute to suppress the spread of the virus in Indonesia.
+Since monitoring compliance is expensive and time consuming, this mask classification project can be deployed further for a real-time masked/unmasked face recognition in CCTV surveillance system to help government enforce the regulation of wearing mask in public places. Hence, the system can help contribute to suppress the spread of coronavirus in Indonesia.
 
 ## Dataset
 The dataset used in this project is from: 
@@ -33,16 +33,18 @@ The time for training reduced from 16-17s to 14-15s per epoch.
 
 Even though the accuracy was a bit lower, and loss was higher than baseline model. The result from our manually collected Test Images is better.
 
+You can download our Test Images [here](https://drive.google.com/file/d/1Na4YrEI1W-F75qIsz-6QhKehATeH-POz/) (or [centered ver.](https://drive.google.com/file/d/1sQoxVUmCXWbIfZQT-lkCVNqMIDJH69Dr/))
+
 ## Deployment 
 This model is a web-based and deployed in [Github Pages](https://hoboroots.github.io/masked_face_classification).
 
 ## Reproduction
 
-These instructions will get you a copy of the project up and running on your local machine for development, testing, and deployement purposes. 
+These instructions will get you a copy of the project up and running on your local machine for development, testing, and deployment purposes. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+The things you need to install and how to install them
 
 ```
 git clone url_of_this_repo
@@ -58,7 +60,7 @@ For deployment, you can use Apache, Nginx, or any web servers to deliver web pag
 
 ## Presentation
 
-For more detail about this project can be found in this [Slide format](https://docs.google.com/presentation/d/1lhoT7nwMqcDaze_fCHscIxv8dQY-PGUUmW9yoF_b6wo/edit?usp=sharing).
+For more details about this project, you can find it in this [Slide](https://docs.google.com/presentation/d/1lhoT7nwMqcDaze_fCHscIxv8dQY-PGUUmW9yoF_b6wo/).
 
 ### Authors
 
