@@ -37,6 +37,7 @@ You can download our Test Images [here](https://drive.google.com/file/d/1Na4YrEI
 
 ## Deployment 
 This model is a web-based and deployed in [Github Pages](https://hoboroots.github.io/masked_face_classification).
+You can select an image of a face that having mask on it or not, and click Predict button, the wait for the result.
 
 ## Reproduction
 
